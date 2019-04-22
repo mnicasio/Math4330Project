@@ -1,2 +1,2 @@
 # Math4330Project
-this file contains all of the different function required to complete the qr factorization of a 
+This program executes the Modified Gram-Schmidt Process. The goal of the Gram-Schmidt Process is to orthonormalize a set of vectors in a given space. 
